@@ -16,7 +16,8 @@ Well this is key_chain_ncf_pcb powered by NT3H2111
 
 
 # 3D overview 
-<img width="1195" height="537" alt="image" src="https://github.com/user-attachments/assets/de7514c9-95f5-4a99-a5ad-7dae2a176935" />
+<img width="1026" height="570" alt="image" src="https://github.com/user-attachments/assets/c3ef67d4-dc39-499b-b626-ba2f2a88ad45" />
+
 
 
 
