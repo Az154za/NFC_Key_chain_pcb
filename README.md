@@ -1,10 +1,14 @@
 # NFC_Key_chain_pcb
 Well this is key_chain_ncf_pcb powered by NT3H2111 
 # BOM :
-- NT3H2111
-- one capacitor
-- one diode
-- one resistor
+| # | Component                            | Supplier   | Unit Price | Delivery | Total    |
+|---|--------------------------------------|------------|------------|----------|----------|
+| 1 | RFID NFC Kit RC522/PN532/RDM6300     | AliExpress | $2.83      | $3.26    | $6.09    |
+|   | https://fr.aliexpress.com/item/1005006440663319.html                                    |
+| 2 | PCB Manufacturing (2-layer)          | JLCPCB     | $30.20     | Included | $30.20   |
+|   | https://jlcpcb.com                                                                      |
+|---|--------------------------------------|------------|------------|----------|----------|
+|   | GRAND TOTAL                          |            |            |          | $36.29   |
 # Schematic :
 <img width="236" height="239" alt="image" src="https://github.com/user-attachments/assets/56b3c901-b2ab-4c6b-ac0b-8f7a85caa785" />
 
