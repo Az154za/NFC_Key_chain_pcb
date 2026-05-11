@@ -1,5 +1,5 @@
 # NFC_Key_chain_pcb
-Well this is key_chain_ncf_pcb powered by NT3H2111 in which you can add your linkdln profile or whatever link you want 
+Well this is key_chain_ncf_pcb powered by NT3H2111 in which you can add your linkdln profile or whatever link you want .
 to do this Just Download the gerber files and print it then have fun 
 # BOM :
 | # | Component                            | Supplier   | Unit Price | Delivery | Total    |
