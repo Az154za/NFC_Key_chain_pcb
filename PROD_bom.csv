@@ -1,6 +1,6 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part,link,price #
 C1,0402,5,220nF,C16772,https://jlcpcb.com/partdetail/17456-CL05B224KO5NNNC/C16772,0.02$
 D1,0402,20,LED,C965793,https://jlcpcb.com/partdetail/XINGLIGHT-XL1005UGC/C965793,0.02$
-L1,KiCadAntenna,1,L
+L1,KiCadAntenna,1,L,,,
 R1,0402,1,47,C25118,https://jlcpcb.com/partdetail/25861-0402WGF470JTCE/C25118,0.16$
 U1,QFN8P50_160X160X50L40X20N,5,NT3H2111W0FHKH,C710403,https://jlcpcb.com/partdetail/NXPSemicon-NT3H2111W0FHKH/C710403,3.83$
