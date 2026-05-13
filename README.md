@@ -3,14 +3,12 @@ Well this is key_chain_ncf_pcb powered by NT3H2111 in which you can add your lin
 This project was made to make sharing your linkdln profile more fluent and easier for the user ( you can add a sticker to conver the pcb and make it more professional if wanted ) 
 to do this Just Download the gerber files and print it then have fun 
 # BOM :
-| # | Component                            | Supplier   | Unit Price | Delivery | Total    |
+| # | Component                            | Supplier   | Price | Delivery | Total    |
 |---|--------------------------------------|------------|------------|----------|----------|
-| 1 | RFID NFC Kit RC522/PN532/RDM6300     | AliExpress | $2.83      | $3.26    | $6.09    |
-|   | https://fr.aliexpress.com/item/1005006440663319.html                                    |
 | 2 | PCB Manufacturing (2-layer)          | JLCPCB     | $37    | Included | $37   |
 |   | https://jlcpcb.com                                                                      |
 |---|--------------------------------------|------------|------------|----------|----------|
-|   | GRAND TOTAL                          |            |            |          | $43.09   |
+|   | GRAND TOTAL                          |            |            |          | $37   |
 # Schematic :
 <img width="236" height="239" alt="image" src="https://github.com/user-attachments/assets/56b3c901-b2ab-4c6b-ac0b-8f7a85caa785" />
 
